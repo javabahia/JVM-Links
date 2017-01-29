@@ -5,13 +5,13 @@
 ## O que é?
 Sempre quis participar ativamente de uma comunidade, mas nunca tinha tempo suficiente para isso?
 
-O que me diz de tentar iniciar compartilhando com os outros membro aquilo que você tem lido e estudado?
+O que me diz de tentar iniciar compartilhando com os outros membros o que você anda lendo e estudando?
 
-O JVM Links surgiu com esse intuito é muito complicado manter um blog atualizado por N motivos e prioridades, além disso geralmente os textos ficam especificios para uma linguagem no nosso caso Java. Com esté repósitorio estamos abrindo as portas de nossa casa em um post realizado toda segunda-feira para que você possa compartilhar os assuntos que você gosta, que estejam em português e relacionados ao mundo da JVM (JVM não é só Java!).
+O JVM Links surgiu com esse intuito, é muito complicado manter um blog atualizado por N motivos e prioridades, além disso geralmente os textos ficam muito específicos para uma linguagem Java. Com esté repósitorio estamos buscando facilitar o compartilhamento de conteúdos em um post realizado **toda segunda-feira**, assim você vai poder começar a participar de uma comunidade, conversar com outras pessoas que tem interesse no mesmo assunto que você, compartilhar os assuntos que você gosta, que estejam em português e relacionados ao mundo da JVM (JVM não é só Java!).
 
 Simplificando...
 
-A ideia do repositório é aumentar o número de compartilhamento de textos entre nossos membros, não importa a linguagem ou tópico deste que estejamos falando de algo que está trabalhando com a JVM. Compartilhe conforme seu tempo e gosto, quantidade não é importante e sim a qualidade do que está sendo compartilhado.
+A ideia do repositório é aumentar o número de compartilhamento de textos entre nossos membros, não importa a linguagem ou tópico, deste que estejamos falando de algo que está trabalhando com a JVM. Compartilhe conforme seu tempo e gosto, quantidade não é importante e sim a qualidade do que está sendo compartilhado.
 
 ## Como compartilhar?
 
