@@ -7,8 +7,12 @@ O JVM Links de hoje está bem recheado espero que gostem, [não esqueçam que es
 
 [1. Pare de começar e comece a terminar](https://tech.vivareal.com.br/pare-de-come%C3%A7ar-e-comece-a-terminar-840f758d6b75#.kwk3vkkoe)
 
-Esse post foi feito pelo João Reis para o Blog do VivaReal e é simplesmente sensacional. Vivemos em um mundo repleto de informações, expectativas e possibilidades. Embora muitas vezes estejamos sobrecarregados, nos sentimos motivados a começar algo novo todos os dias sem necessariamente finalizar aquilo que ontem estava em nossas mãos.
+Esse post foi feito pelo [João Reis](https://twitter.com/jreisstudio) para o [Blog do VivaReal](https://tech.vivareal.com.br/pare-de-come%C3%A7ar-e-comece-a-terminar-840f758d6b75#.kwk3vkkoe) e é simplesmente sensacional. Vivemos em um mundo repleto de informações, expectativas e possibilidades. Embora muitas vezes estejamos sobrecarregados, nos sentimos motivados a começar algo novo todos os dias sem necessariamente finalizar aquilo que ontem estava em nossas mãos.
 
 Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-[2. ]()
+[2. Criando uma aplicação com JSR-371(MVC 1.0)](https://danieldiasjava.wordpress.com/2017/01/25/criando-uma-aplicacao-com-jsr-371mvc-1-0/)
+
+A JSR-371 é uma especificação nova do mundo Java que vai trazer mudanças interessantes para o desenvolvimento de aplicações MVC [o Daniel Dias](https://twitter.com/DanielDiasJava) fez um exelente post explicando a diferença básica entre Action-Based e Component-Based além de criar uma aplicação passo a passo.
+
+[3. ]()
