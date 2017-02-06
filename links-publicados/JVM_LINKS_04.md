@@ -1,6 +1,6 @@
 ## JVM Links (#04)
 
-Opa! Estão abertas as inscrições para o NoSQL-BA a maior conferência de banco de dados relacionais do nosso estado, você vai ficar de fora dessa? Vamos contar com a presença de palestrantes de empresas como Amazon, Microsoft e Oracle,
+Opa! Estão abertas as inscrições para o NoSQL-BA a maior conferência de banco de dados não relacionais do nosso estado, você vai ficar de fora dessa? Vamos contar com a presença de palestrantes de empresas como Amazon, Microsoft e Oracle,
 [acesse o site do evento para maiores informações.](http://www.nosqlba.org)
 
 O JVM Links de hoje está bem recheado espero que gostem, [não esqueçam que estamos com um repositorio no GitHub e você também podem contribuir com os links semanais da comunidade.](https://github.com/javabahia/JVM-Links)
