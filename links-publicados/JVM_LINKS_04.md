@@ -15,4 +15,6 @@ Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
 A JSR-371 é uma especificação nova do mundo Java que vai trazer mudanças interessantes para o desenvolvimento de aplicações MVC [o Daniel Dias](https://twitter.com/DanielDiasJava) fez um exelente post explicando a diferença básica entre Action-Based e Component-Based além de criar uma aplicação passo a passo.
 
+Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
+
 [3. ]()
