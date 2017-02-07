@@ -17,4 +17,27 @@ A JSR-371 é uma especificação nova do mundo Java que vai trazer mudanças int
 
 Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-[3. ]()
+[3. O que devo saber sobre NoSQL?](http://blog.ivanqueiroz.com/2017/01/o-que-devo-saber-sobre-nosql.html?platform=hootsuite)
+
+O modelo relacional é o tipo mais utilizado pela maioria dos bancos de dados mais populares do mercado, mas ao passar dos anos o volume de dados foi crescendo e a forma de se extrair informações foram se tornando cada vez mais custosas nesse modelo, o que levou a criação de novas técnicas como utilizar datawarehouses para geração de relatórios, views materializadas etc. Além disso novas necessidades surgiram como escalabilidade, baixo tempo de leitura e resposta e flexibilidade de modelagem, esse novo ambiente fez com que algumas pessoas questionassem a forma de armazenamento de dados e desse pensamento surgiu o NoSQL (not only SQL).
+
+Mas o que é o NoSQL? É melhor que o modelo relacional? Nesse post irei explicar o que acho importante saber sobre a tecnologia.
+
+Indicado por: [Ivan Queiroz](https://twitter.com/ivanqueiroz)
+
+[4. A importância das comunidades no seu crescimento profissional](https://www.youtube.com/watch?v=pLIdCtQ16ww&feature=share)
+
+Nesse HANGOUT [Achilles Froes]() bate um papo com [Vagner Oliveria](), administrador do TI na Bahia e Co-Leader do SQL Server BA, sobre a importância das comunidades no seu crescimento profissional.
+
+Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+[5. Importantes JSR’s em Public Review](https://soujava.org.br/2017/01/27/importantes-jsrs-em-public-review/)
+
+[Elder Moraes](https://twitter.com/elderjava) recentenmente fez um post no [blog do Sou Java](https://soujava.org.br/2017/01/27/importantes-jsrs-em-public-review/) informando que esses últimos dias foram movimentados dentro do JCP, abrindo excelentes oportunidades para a iniciativa Adopt a JSR.
+
+Três JSR’s muito importantes entraram em “Public Review”. Quem sabe esse não é o momento que você estava esperando para se envolver com o futuro do Java?
+
+Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+
+Indicado por: [Mateus Malaquias](https://twitter.com/mmalaquias1)
