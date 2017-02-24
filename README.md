@@ -13,6 +13,8 @@ Simplificando...
 
 A ideia do repositório é aumentar o número de compartilhamento de textos entre nossos membros, não importa a linguagem ou tópico, deste que estejamos falando de algo que está trabalhando com a JVM. Compartilhe conforme seu tempo e gosto, quantidade não é importante e sim a qualidade do que está sendo compartilhado.
 
+Restruturamos a página para conseguirmos localizar as informações de maneira mais prática.
+
 ## Como compartilhar?
 
 1. Encontre um texto que você tenha gostado muito, que seja relacionado de alguma maneira a plataforma da JVM e que esteja bem escrito.
@@ -21,11 +23,11 @@ A ideia do repositório é aumentar o número de compartilhamento de textos entr
 
 **Titulo: Revisando Padrões com Java 8: O Padrão Template Method**
 
-**Tags: Padrões de projeto, Java 8, Template Method
+**Tags: Padrões de projeto, Java 8, Template Method**
 
 **Link: http://blog.ivanqueiroz.com/2017/01/revisando-padroes-java-8-template-method.html**
 
 **Breve descrição: Lembra do Ivan Queiroz? Ele continua sua saga revisão padrões de projetos e abordando conceitos do Java 8. Não precisa ser um Expert para ler os textos do Ivan, a linguagem utilizada é bem simples recomendo leitura para aprender duas coisas ao mesmo tempo.**
 
-## Linceça
+## Licença
 [MIT](https://github.com/javabahia/JVM-Links/blob/master/LICENSE) © JavaBahia
