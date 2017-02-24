@@ -133,7 +133,7 @@ Mas o que é o NoSQL? É melhor que o modelo relacional? Nesse post irei explica
 No JVM links dessa semana, agruparemos traremos mais que os tradicionais 5 links para agrupar conteúdo sobre um erro comum no mundo da programação Java. O famoso NullPointerException (NPE).
 
 ## [Vamos continuar falando de Nosql]( https://antoniolazaro.github.io/2017/02/05/vamos-continuar-falando-nosql/)
-**Tags:**:Nosql, NoSQLBA
+**Tags:**Nosql, NoSQLBA
 <br/>**Short description:** [Antonio Lazaro (Popete)](https://twitter.com/antonio_lazaro) fez um post no blog do Java Bahia para falar de Nosql.
 Os bancos de dados não relacionais, ou também conhecidos como NoSQL (not only SQL) surgem com objetivo de trazer novas opções de armazenamento de dados diferentes dos nossos modelos relacionais que são baseados em schemas. Sabemos que em computação não existe bala de prata, então não vamos dizer que é a melhor solução para tudo e que deve ser usada sempre, mas deve ser uma opção que deve ser considerada antes de dar uma solução em um projeto. Estamos apresentando um conceito que é conhecido como persistência poliglota. Mas quando usa-los?
 <br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
@@ -144,7 +144,7 @@ Os bancos de dados não relacionais, ou também conhecidos como NoSQL (not only 
 <br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
 
 ## [Play Framework para Java - Criando um Hello World]( https://www.youtube.com/watch?v=gpaIwB18XL0&feature=youtu.be)
-**Tags:**: Playframework, Java,Hello World
+**Tags:** Playframework, Java,Hello World
 <br/>**Short description:** Aqui temos os primeiros passos para criar uma aplicação web básica para entender como a arquitetura do MVC do Play Framework funciona.
 <br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
 
@@ -175,10 +175,34 @@ Tudo parece certo, mas esse código pode ser bastante problemático. A simples a
 
 ### [Bônus - Revisando Padrões com Java 8: O Padrão Null Object](http://blog.ivanqueiroz.com/2017/01/revisando-padroes-java-8-null-object.html)
 **Tags:** NullPointerException, NPE, Optional, Java 8,Padrões de Projetos, Null Object, Série Padrões de Projeto Java 8, Blog Ivan Queiroz
-<br/>**Short description:**Existem padrões além dos famosos já mostrados pelo GOF (Gang of Four) e um desses é o padrão Null Object. Esse padrão é um bom exemplo de utilização de orientação a objetos e deve ser parte do “canivete suíço” de todo desenvolvedor que utiliza linguagens que podem ter referência nula.
+<br/>**Short description:** Existem padrões além dos famosos já mostrados pelo GOF (Gang of Four) e um desses é o padrão Null Object. Esse padrão é um bom exemplo de utilização de orientação a objetos e deve ser parte do “canivete suíço” de todo desenvolvedor que utiliza linguagens que podem ter referência nula.
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
 
-# JVM Links (#04: 27/02/2017)
+# JVM Links (#05: 27/02/2017)
 Anteciparemos o JVM links do dia 27/02, porque...Já é carnaval e todo mundo merece descanso. Inclusive, nós da comunidade Java Bahia.
 Para aqueles que ficarão em casa no carnaval, podem acrescentar um pouco mais de informações em suas vidas.
+Nessa edição, ficamos muito felizes porque temos a primeira participação de outros colaboradores. Nos ajudaram com essa edição Felipe Torres e Fernando Almeida. Obrigado pessoal, e continuem nos ajudando a divulgar conhecimento para a comunidade de software.
 
+
+## [COMPUTAÇÃO APLICADA ? O QUE É ISSO ?](http://www.fgtorres.com.br/2017/02/15/computacao-aplicada-o-que-e-isso/)
+**Tags:** Computação aplicada
+<br/>**Short description:** Short Desde a graduação eu sempre fui inquieto com o que iria fazer após pegar o diploma de Sistemas de Informação. Parece algo simples, mas não é ! A área de computação tem diversas áreas e escolher qual a sua carreira para o futuro é algo construído aos poucos.
+<br/>**Enviado por:**[Felipe Torres](https://github.com/fgtorres)
+
+## [Spring "Less is More"](https://www.linkedin.com/pulse/spring-less-more-fernando-almeida)
+**Tags:** Spring Framework
+<br/>**Short description:** Se você é desenvolvedor ou trabalha com tecnologias de desenvolvimento web, já deve ter ouvido falar um pouco(ou muito) do Spring Framework para desenvolvimento de aplicações Java Enterprise(JEE)...
+<br/>**Enviado por:**[Fernando Almeida](https://github.com/almeidaah)
+
+## [Código legado é uma realidade: lide com isso](http://gabsferreira.com/codigo-legado-e-uma-realidade-lide-com-isso/)
+**Tags:** Projeto, Metodologia
+<br/>**Short description:** Todo desenvolvedor gosta de começar aquele projeto do zero, não é verdade?
+Ainda mais se for usando aquela tecnologia quente do momento, usando as melhores ferramentas que o dinheiro pode comprar, aplicando as metodologias mais populares e melhores práticas de desenvolvimento do mercado.
+Legal demais, né? Porém...
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [O profissional “sênior”](https://tech.vivareal.com.br/o-profissional-s%C3%AAnior-6678ef766a17#.te811u6pt)
+**Tags:** Carreira
+<br/>**Short description:** O que é ser um profissional “sênior”?
+É uma tarefa difícil diferenciar em conhecimento técnico os profissionais da nossa área de tecnologia. O que um profissional júnior sabe? Um pleno? Uma pessoa pode ser um especialista em determinada tecnologia, mas por algum acaso essa tecnologia não é usada onde ela trabalha, como a classificamos? Talvez usamos anos de experiência então? Mas quem trabalha na área sabe muito bem que isso não significa muita coisa, pode-se aprender em um ano em alguma empresa o que não se aprende em cinco em outras. E mais complicado ainda, quando deixo de ser um profissional pleno e passo a ser um sênior?
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
