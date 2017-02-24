@@ -32,12 +32,12 @@
 <br/>**Short description:** O [Ivan Queiroz](https://twitter.com/ivanqueiroz) lançou mais um post no seu blog dessa vez mostrando um pouquinho da Linguagem Kotlin que foi desenvolvida pela galera da JetBrains e tem ganhando bastante espaço no mundo mobile para o desenvolvimento de aplicações Android. Se você acha que JVM é somente Java vale apena ler esse post e acompanhar as novidades que vem por aí!
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-##[VAMOS FALAR DE PADRÕES NOSQL [Q&A]](https://otaviojava.wordpress.com/2017/01/12/jnosql_q__a/)
+## [VAMOS FALAR DE PADRÕES NOSQL [Q&A]](https://otaviojava.wordpress.com/2017/01/12/jnosql_q__a/)
 **Tags:** Nosql, Padrões
 <br/>**Short description:** Post do [Otávio Santana](https://twitter.com/otaviojava) explicando o valor da especificação JNOSQL, se você curti bancos de dados NoSQL ou ta curioso sobre eles vale apena ler. [E tá valendo apena também enviar seu trabalho para o NoSQL-BA](http://javabahia.blogspot.com.br/2017/01/abertas-as-chamadas-de-trabalho-para-o.html) que está vai acontecer em Março aqui em Salvador. O Evento conta com a participação da propria especificação JNOSQL e de algumas comunidades do estado como: JavaBahia, PythonBA e GDGSSA.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-##[Spring Security, Spring JPA e o JAVAEE](https://domineospring.wordpress.com/2015/07/27/spring-security-spring-jpa-e-o-javaee/)**
+## [Spring Security, Spring JPA e o JAVAEE](https://domineospring.wordpress.com/2015/07/27/spring-security-spring-jpa-e-o-javaee/)**
 **Tags:** Spring Security, Spring JPA, Java EE
 <br/>**Short description:** Semana passada um amigo me perguntou se eu já tinha utilizado o Spring Secuirty em projetos JavaEE, falei que sim e ele me perguntou como se fazia essa junção (quem trabalha com JavaEE está mais acostumado a utilizar a espeficicação JAAS em projetos). Aconte que o [Alberto Souza](https://twitter.com/alberto_souza) já fez um texto muito bom explicando esse processo, recomendo leitura.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
@@ -52,8 +52,9 @@
 <br/>**Short description:** [João Paulo Sossoloti](https://twitter.com/jopss) fez um post muito interessante no blog da Caelum falando sobre autenticação REST OAuth2, aplicações REST estão em alta hoje em dia, entender como funciona OAuth2 é muito importante para a segurança de suas aplicações. Se você está estudando REST ou planeja aprender REST ler esse texto é uma boa porta de entrada.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-##[BÔNUS. Vindo morar e estudar na Irlanda](https://willianjusten.com.br/vindo-morar-e-estudar-na-irlanda/)**
+## [BÔNUS. Vindo morar e estudar na Irlanda](https://willianjusten.com.br/vindo-morar-e-estudar-na-irlanda/)**
 **Tags:** Estudar inglês, Morar Fora do País, Irlanda
 <br/>**Short description:** Nesse texto [Willian Justen](https://twitter.com/Willian_justen) nós conta como é morar fora do Brasil e como isso pode te ajudar a estudar, o legal desse texto é que você pode ver como o inglês influencia o dia a dia de um desenvolvedor.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
+# JVM Links (#03 13/02/2017)
