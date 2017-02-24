@@ -21,6 +21,7 @@ Restruturamos a página para conseguirmos localizar as informações de maneira 
 
 2. Abra uma Issue seguindo o seguinte formato: no Titulo [Titulo do texto que se deseja divulgar], Assunto [Link para o texto com um breve resumo. Exemplo: 
 
+**_Exemplo:_**
 **Titulo: Revisando Padrões com Java 8: O Padrão Template Method**
 
 **Tags: Padrões de projeto, Java 8, Template Method**
