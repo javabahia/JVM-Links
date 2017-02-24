@@ -20,7 +20,7 @@
 <br/>**Short description:**Para aqueles que estão dando os primeiros passos no mundo do OO, o coursera esta para começar nova sessão do seu curso. O objetivo deste curso é fazer você compreender os princípios de orientação a objetos por meio da linguagem Java e saber como eficientemente aplicar esses princípios na prática quando projetando e desenvolvendo software de maneira ágil. Os conceitos discutidos e experimentados por você neste curso serão a base para você poder compreender os novos conceitos apresentados nos cursos seguintes desta especialização.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-## JVM Links (#02 06/02/2017)
+# JVM Links (#02 06/02/2017)
 
 ## [Abertura das chamadas de trabalho para o NoSQL-BA](http://javabahia.blogspot.com.br/2017/01/abertas-as-chamadas-de-trabalho-para-o.html).
 **Tags:** Nosql, Evento, Java Bahia
@@ -39,17 +39,21 @@
 
 ##[Spring Security, Spring JPA e o JAVAEE](https://domineospring.wordpress.com/2015/07/27/spring-security-spring-jpa-e-o-javaee/)**
 **Tags:** Spring Security, Spring JPA, Java EE
-**Short description:** Semana passada um amigo me perguntou se eu já tinha utilizado o Spring Secuirty em projetos JavaEE, falei que sim e ele me perguntou como se fazia essa junção (quem trabalha com JavaEE está mais acostumado a utilizar a espeficicação JAAS em projetos). Aconte que o [Alberto Souza](https://twitter.com/alberto_souza) já fez um texto muito bom explicando esse processo, recomendo leitura.
-**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
+<br/>**Short description:** Semana passada um amigo me perguntou se eu já tinha utilizado o Spring Secuirty em projetos JavaEE, falei que sim e ele me perguntou como se fazia essa junção (quem trabalha com JavaEE está mais acostumado a utilizar a espeficicação JAAS em projetos). Aconte que o [Alberto Souza](https://twitter.com/alberto_souza) já fez um texto muito bom explicando esse processo, recomendo leitura.
+<br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-**4. [Java 8 Streams API: Manipulando coleções de forma eficiente](http://www.devmedia.com.br/java-8-streams-api-manipulando-colecoes-de-forma-eficiente/37630)**
+## [Java 8 Streams API: Manipulando coleções de forma eficiente](http://www.devmedia.com.br/java-8-streams-api-manipulando-colecoes-de-forma-eficiente/37630)**
+**Tags:**Java 8, Stream, Collection
+<br/>**Short description:** Ainda está passando por dificuldades para entender a API Streams do Java 8? Então tire um tempinho para da uma lida nesse texto do Carlos Alberto](http://www.devmedia.com.br/space/carlos-alberto-silva-3).
+<br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-=> Ainda está passando por dificuldades para entender a API Streams do Java 8? Então tire um tempinho para da uma lida nesse texto do Carlos Alberto.
+## [Autenticação REST OAuth2 em Java com Apache Oltu](http://blog.caelum.com.br/autenticacao-rest-oauth2-em-java-com-apache-oltu/)**
+**Tags:** Rest, OAuth2, Java, Apache Oltu
+<br/>**Short description:** [João Paulo Sossoloti](https://twitter.com/jopss) fez um post muito interessante no blog da Caelum falando sobre autenticação REST OAuth2, aplicações REST estão em alta hoje em dia, entender como funciona OAuth2 é muito importante para a segurança de suas aplicações. Se você está estudando REST ou planeja aprender REST ler esse texto é uma boa porta de entrada.
+<br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-**5. [Autenticação REST OAuth2 em Java com Apache Oltu](http://blog.caelum.com.br/autenticacao-rest-oauth2-em-java-com-apache-oltu/)**
+##[BÔNUS. Vindo morar e estudar na Irlanda](https://willianjusten.com.br/vindo-morar-e-estudar-na-irlanda/)**
+**Tags:** Estudar inglês, Morar Fora do País, Irlanda
+<br/>**Short description:** Nesse texto [Willian Justen](https://twitter.com/Willian_justen) nós conta como é morar fora do Brasil e como isso pode te ajudar a estudar, o legal desse texto é que você pode ver como o inglês influencia o dia a dia de um desenvolvedor.
+<br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-=> João Paulo Sossoloti fez um post muito interessante no blog da Caelum falando sobre autenticação REST OAuth2, aplicações REST estão em alta hoje em dia, entender como funciona OAuth2 é muito importante para a segurança de suas aplicações. Se você está estudando REST ou planeja aprender REST ler esse texto é uma boa porta de entrada.
-
-**[BÔNUS. Vindo morar e estudar na Irlanda](https://willianjusten.com.br/vindo-morar-e-estudar-na-irlanda/)**
-
-=> Nesse texto [Willian Justen](https://twitter.com/Willian_justen) nós conta como é morar fora do Brasil e como isso pode te ajudar a estudar, o legal desse texto é que você pode ver como o inglês influencia o dia a dia de um desenvolvedor.
