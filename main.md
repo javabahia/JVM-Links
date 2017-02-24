@@ -1,6 +1,6 @@
 # JVM Links (#01: 30/01/2017)
 
-## [Revisando Padrões com Java 8: O Padrão Strategy](http://blog.ivanqueiroz.com/2017/01/revisando-padroes-java-8-o-padrao-strategy.html)**
+## [Revisando Padrões com Java 8: O Padrão Strategy](http://blog.ivanqueiroz.com/2017/01/revisando-padroes-java-8-o-padrao-strategy.html){:target="_blank"}**
 **Tags:** Java 8, Padrões de Projetos, Strategy
 <br/>**Short description:** Um excelente post do Ivan que além de explicar como se trabalhar com o Padrão de projeto Strategy, também explicou muito bem como funciona lambdas e strems do Java 8.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
@@ -44,7 +44,7 @@
 
 ## [Java 8 Streams API: Manipulando coleções de forma eficiente](http://www.devmedia.com.br/java-8-streams-api-manipulando-colecoes-de-forma-eficiente/37630)**
 **Tags:**Java 8, Stream, Collection
-<br/>**Short description:** Ainda está passando por dificuldades para entender a API Streams do Java 8? Então tire um tempinho para da uma lida nesse texto do Carlos Alberto](http://www.devmedia.com.br/space/carlos-alberto-silva-3).
+<br/>**Short description:** Ainda está passando por dificuldades para entender a API Streams do Java 8? Então tire um tempinho para da uma lida nesse texto do [Carlos Alberto](http://www.devmedia.com.br/space/carlos-alberto-silva-3).
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
 ## [Autenticação REST OAuth2 em Java com Apache Oltu](http://blog.caelum.com.br/autenticacao-rest-oauth2-em-java-com-apache-oltu/)**
