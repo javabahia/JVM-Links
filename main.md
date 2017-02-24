@@ -22,9 +22,9 @@
 
 ## JVM Links (#02 06/02/2017)
 
-## Queria começar o JVM Links de hoje falando sobre [a abertura das chamadas de trabalho para o NoSQL-BA](http://javabahia.blogspot.com.br/2017/01/abertas-as-chamadas-de-trabalho-para-o.html), esse que vai ser o maior evento de NoSQL no nosso estado, já temos algumas comunides apoiando o evento e aguardamos o envio da sua talk.
+## [Abertura das chamadas de trabalho para o NoSQL-BA](http://javabahia.blogspot.com.br/2017/01/abertas-as-chamadas-de-trabalho-para-o.html).
 **Tags:** Nosql, Evento, Java Bahia
-<br/>**Short description:** Call for papers do evento NoSQLBA que acontecerá em março.
+<br/>**Short description:** Call for papers do evento NoSQLBA que acontecerá em março. Esse que vai ser o maior evento de NoSQL no nosso estado, já temos algumas comunides apoiando o evento e aguardamos o envio da sua talk.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
 ## [Linguagens da JVM: Kotlin](http://blog.ivanqueiroz.com/2017/01/linguagens-jvm-kotlin.html)
