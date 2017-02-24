@@ -206,3 +206,13 @@ Legal demais, né? Porém...
 <br/>**Short description:** O que é ser um profissional “sênior”?
 É uma tarefa difícil diferenciar em conhecimento técnico os profissionais da nossa área de tecnologia. O que um profissional júnior sabe? Um pleno? Uma pessoa pode ser um especialista em determinada tecnologia, mas por algum acaso essa tecnologia não é usada onde ela trabalha, como a classificamos? Talvez usamos anos de experiência então? Mas quem trabalha na área sabe muito bem que isso não significa muita coisa, pode-se aprender em um ano em alguma empresa o que não se aprende em cinco em outras. E mais complicado ainda, quando deixo de ser um profissional pleno e passo a ser um sênior?
 <br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Java EE 8 updated schedule! Proposed Final Draft: June 2017. Final Release: July 2017](https://www.theregister.co.uk/2017/02/22/java_ee_8_provisional_date/)
+**Tags:** JEE, Roadmap, JEE 8
+<br/>**Short description:** Divulgada novo calendário do Roadmap do JEE 8.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [JSF 2.3 Milestone 10 is out the door](https://maven.java.net/content/repositories/releases/org/glassfish/javax.faces/2.3.0-m10/)
+**Tags:** JSF, 2.3,
+<br/>**Short description:** Publicada a milestone 10 do JSF 2.3. Veja o que tem de novidades nesse [link](http://arjan-tijms.omnifaces.org/p/jsf-23.html).
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
