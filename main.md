@@ -1,4 +1,4 @@
-# JVM Links (#01: 30/01/2017)
+# JVM Links (#01: 23/01/2017)
 
 ## [Revisando Padrões com Java 8: O Padrão Strategy](http://blog.ivanqueiroz.com/2017/01/revisando-padroes-java-8-o-padrao-strategy.html)
 **Tags:** Java 8, Padrões de Projetos, Strategy, Série Padrões de Projeto Java 8, Blog Ivan Queiroz
@@ -20,7 +20,7 @@
 <br/>**Short description:**Para aqueles que estão dando os primeiros passos no mundo do OO, o coursera esta para começar nova sessão do seu curso. O objetivo deste curso é fazer você compreender os princípios de orientação a objetos por meio da linguagem Java e saber como eficientemente aplicar esses princípios na prática quando projetando e desenvolvendo software de maneira ágil. Os conceitos discutidos e experimentados por você neste curso serão a base para você poder compreender os novos conceitos apresentados nos cursos seguintes desta especialização.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-# JVM Links (#02 06/02/2017)
+# JVM Links (#02 30/01/2017)
 
 ## [Abertura das chamadas de trabalho para o NoSQL-BA](http://javabahia.blogspot.com.br/2017/01/abertas-as-chamadas-de-trabalho-para-o.html).
 **Tags:** Nosql, Evento, Java Bahia
@@ -57,7 +57,7 @@
 <br/>**Short description:** Nesse texto [Willian Justen](https://twitter.com/Willian_justen) nós conta como é morar fora do Brasil e como isso pode te ajudar a estudar, o legal desse texto é que você pode ver como o inglês influencia o dia a dia de um desenvolvedor.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
-# JVM Links (#03 13/02/2017)
+# JVM Links (#03: 06/02/2017)
 
 ## [E o futuro do Java! – Hipsters #27](http://hipsters.tech/e-o-futuro-do-java-hipsters-27/)
 **Tags:** Futuro Java, Podcast,Hipsters
@@ -80,7 +80,7 @@ recomendo leitura para aprender duas coisas ao mesmo tempo.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
 
 ## [Comunidade, por onde começar?](https://ramonmluz.wordpress.com/2017/01/22/comunidade-por-onde-comecar/)
-**Tags:**: Comunidade
+**Tags:** Comunidade
 <br/>**Short description:** Hoje estamos com um JVM Links com bastante coisa voltada para comunidade. O [Ramon Mota](https://twitter.com/ramonmluz)
 fez um excelente post falando a respeito da sua experiência de como foi começar a participar de uma comunidade, como a comunidade
 tem feito ele melhorar cada vez mais e de bônus tem bastante dica de como começar.
@@ -95,3 +95,90 @@ precisam comunicar por meio de APIs web. Esta palestra abordará como construir 
 utilizando tecnologias backend Java EE. Ao final você entenderá os benefícios do uso destas tecnologias, 
 bem como padrões e boas práticas aplicadas nesse modelo de desenvolvimento.
 <br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+# JVM Links (#04: 13/02/2017)
+
+Opa! Estão abertas as inscrições para o NoSQL-BA a maior conferência de banco de dados não relacionais do nosso estado, você vai ficar de fora dessa? Vamos contar com a presença de palestrantes de empresas como Amazon, Microsoft e Oracle,
+[acesse o site do evento para maiores informações.](http://www.nosqlba.org)
+O JVM Links de hoje está bem recheado espero que gostem, [não esqueçam que estamos com um repositorio no GitHub e você também pode contribuir com os links semanais da comunidade.](https://github.com/javabahia/JVM-Links)
+
+## [Pare de começar e comece a terminar](https://tech.vivareal.com.br/pare-de-come%C3%A7ar-e-comece-a-terminar-840f758d6b75#.kwk3vkkoe)
+**Tags:**Carreira
+<br/>**Short description:** Esse post foi feito pelo [João Reis](https://twitter.com/jreisstudio) para o [Blog do VivaReal](https://tech.vivareal.com.br/pare-de-come%C3%A7ar-e-comece-a-terminar-840f758d6b75#.kwk3vkkoe) e é simplesmente sensacional. Vivemos em um mundo repleto de informações, expectativas e possibilidades. Embora muitas vezes sobrecarregados, nos sentimos motivados a começar algo novo todos os dias sem necessariamente finalizar o que ontem estava em nossas mãos. Você Consegue me dizer quantas vezes no ano passado você finalizou uma atividade antes de começar um novo? Quantas coisas você foi tocando em paralelo com aquela sensação de trabalhar, trabalhar e não ver resultado?
+<br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Criando uma aplicação com JSR-371(MVC 1.0)](https://danieldiasjava.wordpress.com/2017/01/25/criando-uma-aplicacao-com-jsr-371mvc-1-0/)
+**Tags:** JSR-371, MVC 1.0, Java
+<br/>**Short description:** A JSR-371 é uma especificação nova do mundo Java que vai trazer mudanças interessantes para o desenvolvimento de aplicações MVC [o Daniel Dias](https://twitter.com/DanielDiasJava) fez um exelente post explicando a diferença básica entre Action-Based e Component-Based além de criar uma aplicação passo a passo.
+<br/>**Enviado por:** [Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [O que devo saber sobre NoSQL?](http://blog.ivanqueiroz.com/2017/01/o-que-devo-saber-sobre-nosql.html?platform=hootsuite)
+**Tags:** Nosql
+<br/>**Short description:** O modelo relacional é o tipo mais utilizado pela maioria dos bancos de dados mais populares do mercado, mas ao passar dos anos o volume de dados foi crescendo e a forma de se extrair informações foram se tornando cada vez mais custosas nesse modelo, o que levou a criação de novas técnicas como por exemplo utilizar datawarehouses para geração de relatórios, views materializadas etc. Além disso novas necessidades surgiram como escalabilidade, baixo tempo de leitura e resposta e flexibilidade de modelagem, esse novo ambiente fez com que algumas pessoas questionassem a forma de armazenamento de dados e desse pensamento surgiu o NoSQL (not only SQL).
+Mas o que é o NoSQL? É melhor que o modelo relacional? Nesse post irei explicar o que acho importante saber sobre a tecnologia.
+<br/>**Enviado por:** [Ivan Queiroz](https://twitter.com/ivanqueiroz)
+
+## [A importância das comunidades no seu crescimento profissional](https://www.youtube.com/watch?v=pLIdCtQ16ww&feature=share)
+**Tags:** Comunidade, Microsoft, Sql Server
+<br/>**Short description:** Nesse HANGOUT [Achilles Froes](https://twitter.com/achillesfroes) bate um papo com [Vagner Oliveria](https://twitter.com/vopp86), administrador do TI na Bahia e Co-Leader do SQL Server BA, sobre a importância das comunidades no seu crescimento profissional.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Importantes JSR’s em Public Review](https://soujava.org.br/2017/01/27/importantes-jsrs-em-public-review/)
+**Tags:** JSRs
+<br/>**Short description:** [Elder Moraes](https://twitter.com/elderjava) recentemente fez um post no [blog do Sou Java](https://soujava.org.br/2017/01/27/importantes-jsrs-em-public-review/) informando que esses últimos dias foram movimentados dentro do JCP, abrindo excelentes oportunidades para a iniciativa Adopt a JSR. Três JSR’s muito importantes entraram em “Public Review”. Quem sabe esse não é o momento que você estava esperando para se envolver com o futuro do Java?
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+# JVM Links (#04: 20/02/2017)
+
+No JVM links dessa semana, agruparemos traremos mais que os tradicionais 5 links para agrupar conteúdo sobre um erro comum no mundo da programação Java. O famoso NullPointerException (NPE).
+
+## [Vamos continuar falando de Nosql]( https://antoniolazaro.github.io/2017/02/05/vamos-continuar-falando-nosql/)
+**Tags:**:Nosql, NoSQLBA
+<br/>**Short description:** [Antonio Lazaro (Popete)](https://twitter.com/antonio_lazaro) fez um post no blog do Java Bahia para falar de Nosql.
+Os bancos de dados não relacionais, ou também conhecidos como NoSQL (not only SQL) surgem com objetivo de trazer novas opções de armazenamento de dados diferentes dos nossos modelos relacionais que são baseados em schemas. Sabemos que em computação não existe bala de prata, então não vamos dizer que é a melhor solução para tudo e que deve ser usada sempre, mas deve ser uma opção que deve ser considerada antes de dar uma solução em um projeto. Estamos apresentando um conceito que é conhecido como persistência poliglota. Mas quando usa-los?
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [[HANGOUT] Webinar Design de APIs RESTful](https://www.youtube.com/watch?v=psLrAsdHltQ&feature=youtu.be)
+**Tags:** APIs RESTFULL,Rest, Webinar,Design
+<br/>**Short description:** Gravação do Webinar sobre Design de APIs RESTful realizado por Kleber Bacili, CEO da Sensedia, no dia 04/09/2014.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Play Framework para Java - Criando um Hello World]( https://www.youtube.com/watch?v=gpaIwB18XL0&feature=youtu.be)
+**Tags:**: Playframework, Java,Hello World
+<br/>**Short description:** Aqui temos os primeiros passos para criar uma aplicação web básica para entender como a arquitetura do MVC do Play Framework funciona.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [[PODCAST] DNE 90 - Síndrome do Impostor](http://devnaestrada.com.br/2017/02/03/sindrome-do-impostor.html)
+**Tags:** Podcast, devnaestrada,Carreira
+<br/>**Short description:** Você sabe o que é Sindrome do Impostor? @eduardojmatos, @femontanha e @raymonsanches debatem sobre este tema tão comum na área de tecnologia.
+E você já passou por isso? Já se sentiu assim? Comente aí embaixo sua experiência.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## Série sobre NullPointerException
+
+### [Chega de NullPointerException! Use a nova classe Optional do Java 8](http://blog.algaworks.com/chega-de-nullpointerexception-use-a-nova-classe-optional-do-java-8/)
+**Tags:** NullPointerException, NPE, Optional, Java 8
+<br/>**Short description:** Tenho certeza que em algum momento da sua vida como programador, já passou vergonha com um feio NullPointerException, ou estou mentindo? :)
+Neste post será apresentada a nova classe Optional do Java 8, que irá te ajudar em dois pontos: evitar a famosa exceção NullPointerException e deixar seu código mais bonito e limpo.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+### [Chega de NullPointerException, trabalhe com o java.util.Optional!](http://blog.caelum.com.br/chega-de-nullpointerexception-trabalhe-com-o-java-util-optional/)
+**Tags:** NullPointerException, NPE, Optional, Java 8
+<br/>**Short description:** Já vimos aqui no blog as principais novidades do Java 8, detalhes da nova API de datas e como aplicar algumas dessas novidades em nosso dia a dia. Mas há muito o que explorar nas diversas introduções dessa nova versão da linguagem.
+Tudo parece certo, mas esse código pode ser bastante problemático. A simples ausência de algum desses valores pode resultar no tão frequente NullPointerException. Claro, você pode contornar esse problema de diversas formas, como por exemplo inicializar suas listas ou sempre verificar que os valores são diferentes de null antes de fazer qualquer operação com eles.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+### [Como usar o Optional do Java 8 com a JPA (Hibernate)](https://medium.com/@mmalaquias1/como-usar-o-optional-do-java-8-com-a-jpa-hibernate-c1e48a4aa546#.8927w7ffa)
+**Tags:** NullPointerException, NPE, Optional, Java 8
+<br/>**Short description:** Finalmente temos em mãos um facilitador para evitar o velho NullPointerException. O Optional é um novo recurso no mundo Java, tenha em mente como uma espécie de caixa que pode ser preenchida ou não, caso possua um algo então é possível utilizar vários recursos que nos auxiliam no manuseio desse conteúdo, caso a caixa não esteja preenchida ao menos podemos evitar, sem nenhum esforço, o bendito/maldito erro do NullPointerException. Você já tentou utilizar o Optional como um atributo de uma entidade? Se sim, provavelmente aconteceu o erro (será explicado durante o texto) e sua aplicação mal subiu. Então “Como é que utilizo o Optional com a JPA?”, “Por que não posso utiliza-lo como atributo na minha entidade?”, “Para que ele serve?”. Pretendo responder essas perguntas e te prometo que não serei chato.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+### [Bônus - Revisando Padrões com Java 8: O Padrão Null Object](http://blog.ivanqueiroz.com/2017/01/revisando-padroes-java-8-null-object.html)
+**Tags:** NullPointerException, NPE, Optional, Java 8,Padrões de Projetos, Null Object, Série Padrões de Projeto Java 8, Blog Ivan Queiroz
+<br/>**Short description:**Existem padrões além dos famosos já mostrados pelo GOF (Gang of Four) e um desses é o padrão Null Object. Esse padrão é um bom exemplo de utilização de orientação a objetos e deve ser parte do “canivete suíço” de todo desenvolvedor que utiliza linguagens que podem ter referência nula.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+# JVM Links (#04: 27/02/2017)
+Anteciparemos o JVM links do dia 27/02, porque...Já é carnaval e todo mundo merece descanso. Inclusive, nós da comunidade Java Bahia.
+Para aqueles que ficarão em casa no carnaval, podem acrescentar um pouco mais de informações em suas vidas.
+
