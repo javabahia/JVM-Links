@@ -216,3 +216,45 @@ Legal demais, né? Porém...
 **Tags:** JSF, 2.3,
 <br/>**Short description:** Publicada a milestone 10 do JSF 2.3. Veja o que tem de novidades nesse [link](http://arjan-tijms.omnifaces.org/p/jsf-23.html).
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+# JVM Links (#06: 06/03/2017)
+Passou o carnaval e voltamos ao JVM Links todas segundas. Para os links dessa semana tivemos a participação de [Felipe Torres, que tem colaborado frequentemente conosco]((https://github.com/fgtorres)) e [Rafael Pontes(JUG-CE)](https://twitter.com/rponte?lang=en).
+
+## [No More DAOs](http://www.rponte.com.br/2009/06/08/no-more-daos/)
+**Tags:** Arquitetura, Design Patterns, JPA, Persistência
+<br/>**Short description:** É muito fácil seguir receitas de bolo ou decisões arquiteturais sem se questionar se elas funcionam pro seu projeto. Uma das que mais incomodam é o uso do padrão de projetos DAO. Embora este padrão fosse uma solução quase que mandatório há 10 anos atrás, hoje em dia com a evolução dos frameworks ORM ele perdeu força, afinal de contas, tecnologias como JPA e Hibernate já nos fornecem uma API que funciona como nosso DAO genérico. Por esse motivo e alguns outros, as chances são que sua arquitetura não precise de uma camada DAO.
+<br/>**Enviado por:**[Rafael Pontes](https://twitter.com/rponte?lang=en).
+
+## [[Vídeo de Palestra] Migrations for Java: Evoluindo seu banco de dados de maneira incremental]( https://www.youtube.com/watch?v=BQICWePrLg0)
+**Tags:** Arquitetura, Design Patterns, Banco de dados, Gestão de configuração
+<br/>**Short description:** Assim como as Migrations no mundo Ruby On Rails, o mundo Java também possui alternativas para evoluir o banco de dados de uma aplicação. Aprenda como você e sua equipe podem evoluir de maneira iterativa e incremental seu banco de dados – já em produção – durante a criação da sua aplicação.
+Serão apresentados os problemas e desafios mais comuns de não utilizar uma ferramenta de migrations para gerenciar a evolução do banco de dados, e os benefícios que esta ferramenta traz em ambiente de desenvolvimento e produção.
+Também serão apresentados opções de migrations para Java, suas principais diferenças e a experiência do palestrante ao adotar uma dessas ferramentas em projetos com bancos de dados criados do zero, e também projetos que precisam manter o legado. [Link slide share](https://www.slideshare.net/rponte/migrations-for-java-jvacejavou4)
+<br/>**Enviado por:**[Rafael Pontes](https://twitter.com/rponte?lang=en).
+
+## [Começando com Maven](https://spring.io/guides/gs/maven/)
+**Tags:** Arquitetura, Design Patterns, Banco de dados, Gestão de configuração
+<br/>**Short description:** Tutorial básico que explica o [Maven](https://maven.apache.org/), ferramenta de gestão de dependências.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [JAX-RS 2.1 Early Draft #JavaEE8](https://java.net/projects/jax-rs-spec/lists/users/archive/2017-02/message/84)
+**Tags:** JEE 8, JAX-RS, Early Draft, Rest
+<br/>**Short description:** Saiu a early draft da especificação JAX-RS 2.1. Evolução JEE 8.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Angular 4.0 rc1 released](https://github.com/angular/angular/blob/master/CHANGELOG.md)
+**Tags:** Angular, JavaScript
+<br/>**Short description:** Saiu a release candidate 1 da versão 4 do Angular.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [VOCÊ SABE COMPARAR DUAS SEQUÊNCIAS DE DNA, USANDO ALGORITMO?](http://www.fgtorres.com.br/2017/02/26/voce-sabe-comparar-duas-sequencias-de-dna-usando-algoritmo/)
+**Tags:** Computação Aplicada, Algoritimo, DNA, Bioinformática
+<br/>**Short description:** Você achava que trabalhar com DNA era coisa de biólogo ou médico ? Já sei… sou analista de sistema não preciso estudar nada disso ! Tenho uma boa notícia, você estava mais errado do que imaginava…
+A computação está se integrando e fazendo parte das rotinas diárias de diversas áreas como a área de saúde. Existem diversas ferramentas, bancos de dados e algoritmos aplicados a problemas dessa área. Alguns problemas são simples teoricamente mas na prática…
+<br/>**Enviado por:**[Felipe Torres](https://github.com/fgtorres)
+
+## [Primefaces 6.1 Rc1 released](http://www.primefaces.org/primefaces-6-1-rc1-released/)
+**Tags:** JSF, Front End, Primefaces
+<br/>**Short description:** Saiu a a Release Candidate 1 do Primefaces. Nessa versão foi anunciada mais de 250 melhorias e novos componentes, como Organograma, TreePage, novo editor de texto, dentre outros.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
