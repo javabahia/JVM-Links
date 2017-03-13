@@ -258,3 +258,48 @@ A computação está se integrando e fazendo parte das rotinas diárias de diver
 <br/>**Short description:** Saiu a a Release Candidate 1 do Primefaces. Nessa versão foi anunciada mais de 250 melhorias e novos componentes, como Organograma, TreePage, novo editor de texto, dentre outros.
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
 
+# JVM Links (#06: 06/03/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de [Felipe Torres, que tem colaborado frequentemente conosco]((https://github.com/fgtorres)) e [Lucas Faria (bem vindo!)](https://twitter.com/luksrn).
+
+## [Spring Framework 5.0 M5 Update](https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update?utm_content=buffer62fbc&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+**Tags:** Spring
+<br/>**Short description:** Saiu a a Release Milestone 5 do Spring Framework versão 5. Nesse post tem algumas novidades sobre o que vem por ai.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Entenda a variável serialVersionUID e sua importância na arquitetura Java](http://blog.algaworks.com/serialversionuid/)
+**Tags:** Java
+<br/>**Short description:** Apesar de tão presente no dia a dia dos desenvolvedores Java, muitos ainda tem dúvidas sobre o atributo serialVersionUID:
+Quando usar?
+De onde o Eclipse tira o valor dessa propriedade?
+Por que é um número tão grande? Não poderia ser 1?
+Se alterar, vai dar problemas?
+Ele pode ser removido?
+Nesse artigo vou responder a essas dúvidas e, por tabela, algumas outras também.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Aplicação prática do Padrão Proxy](https://luksrn.wordpress.com/2017/03/02/aplicacao-pratica-do-padrao-proxy/)
+**Tags:**  Padrões de projeto, Proxy
+<br/>**Short description:** Neste artigo é apresentado a aplicabilidade do padrão proxy no cenário dos pool de conexões, onde é descrito o ciclo de vida de uma conexão neste pool e como o padrão proxy resolve um requisito essencial.
+<br/>**Enviado por:**[Lucas Faria](https://twitter.com/luksrn)
+
+## [100 Most Popular Programming Languages Of 2017](https://fossbytes.com/100-most-popular-programming-languages/)
+**Tags:** Java, Linguagens de programação
+<br/>**Short description:** Saiu a lista das linguagens mais populares em 2017 pelo site FossBytes. Não houveram mudanças no Top Five, em relação ao ano de 2016 que conta com as linguagens: 
+<br/>1)Java
+<br/>2)C
+<br/>3)C++
+<br/>4)C#
+<br/>5)Python
+<br/> Java script que está no hype de uso, está em 8, segundo o estudo feito pelo site...
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Escolha o seu projeto Open Source na área de saúde !]( http://www.fgtorres.com.br/2017/03/13/escolha-o-seu-projeto-open-source-na-area-de-saude/)
+**Tags:** Computação aplicada
+<br/>**Short description:** Você sabe o que é um software open source ? Como eles são criados e mantidos ? Será que existem projetos desse tipo na área de computação aplicada ? Só lendo esse post para saber como você pode mudar o mundo com eles !
+<br/>**Enviado por:**[Felipe Torres](www.fgtorres.com.br)
+
+## [Kotlin 1.1 Adds Coroutines, Type Aliases, Improved JavaScript Support](https://www.infoq.com/news/2017/03/kotlin-11-released?utm_source=twitter&utm_campaign=calendar&utm_medium=link)
+**Tags:** Kotlin, JVM
+<br/>**Short description:** Kotlin new version introduces a number of new language features – most notably coroutines – and improved support for its JavaScript target, writes Kotlin marketing manager Roman Belov.
+Although still considered experimental, one of the key new features in Kotlin 1.1 are coroutines, which are available through the use of three higher-level constructs: async, await, and yield. 
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
