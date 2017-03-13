@@ -258,7 +258,7 @@ A computação está se integrando e fazendo parte das rotinas diárias de diver
 <br/>**Short description:** Saiu a a Release Candidate 1 do Primefaces. Nessa versão foi anunciada mais de 250 melhorias e novos componentes, como Organograma, TreePage, novo editor de texto, dentre outros.
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
 
-# JVM Links (#06: 06/03/2017)
+# JVM Links (#06: 13/03/2017)
 Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de [Felipe Torres, que tem colaborado frequentemente conosco]((https://github.com/fgtorres)) e [Lucas Faria (bem vindo!)](https://twitter.com/luksrn).
 
 ## [Spring Framework 5.0 M5 Update](https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update?utm_content=buffer62fbc&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
