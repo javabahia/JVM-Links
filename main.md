@@ -303,3 +303,33 @@ Nesse artigo vou responder a essas dúvidas e, por tabela, algumas outras també
 <br/>**Short description:** Kotlin new version introduces a number of new language features – most notably coroutines – and improved support for its JavaScript target, writes Kotlin marketing manager Roman Belov.
 Although still considered experimental, one of the key new features in Kotlin 1.1 are coroutines, which are available through the use of three higher-level constructs: async, await, and yield. 
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+# JVM Links (#08: 27/03/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de Thiago Neri, Otavio Santana e Lucas Farias.
+
+## [JNOSQL – DIANA RELEASE 0.0.1](https://otaviojava.wordpress.com/2017/03/27/jnosql-diana-release-0-0-1/)
+**Tags:** NoSQL, JNoSQL, JCP
+<br/>**Short description:** Saiu a a Release inicial da nova especificação Java JNOSQL, o JNoSQL é uma tecnologia Java cujo o foco é criar um API comum para comunicação para os bancos não relacionais, não esquecendo também da diversidade que eles possuem.
+<br/>**Enviado por:**[Otavio Santana](https://twitter.com/otaviojava)
+
+## [Anotações: Meta-annotations, Stereotype Annotation e Composed Annotations](https://luksrn.wordpress.com/2017/03/26/anotacoes-meta-annotations-stereotype-annotation-e-composed-annotations/)
+**Tags:** Java, Spring Boot, Anotações
+<br/>**Short description:** Entenda os termos utilizados nas definições de anotações com exemplos aplicados no Spring Boot..
+<br/>**Enviado por:**[Lucas Faria](https://twitter.com/luksrn)
+
+## [Anotações: Meta-annotations, Stereotype Annotation e Composed Annotations](https://luksrn.wordpress.com/2017/03/26/anotacoes-meta-annotations-stereotype-annotation-e-composed-annotations/)
+**Tags:** Java, Spring Boot, Anotações
+<br/>**Short description:** Entenda os termos utilizados nas definições de anotações com exemplos aplicados no Spring Boot..
+<br/>**Enviado por:**[Lucas Faria](https://twitter.com/luksrn)
+
+## [Stackoverflow survey 2017](https://stackoverflow.com/insights/survey/2017#technology)
+**Tags:** Linguagens, Frameworks, Resulto de pesquisa de dúvidas
+<br/>**Short description:** O StackOver Flow é um grande forum onde desenvolvedores buscam o auxilio de outros para sanar problemas nos seus projetos ou tirar dúvidas. O interessante é que ele constuma ir além desse escopo e sempre publica um rank do que estão buscado e questionando na plataforma, vale muito apena conferir. 
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Programação Defensiva](http://nerideveloper.blogspot.com.br/2017/03/programacao-defensiva.html)
+**Tags:** Boas praticas
+<br/>**Short description:** O que é programação Defensiva?
+Esse tipo de programação é um particular de uma única linguagem?
+Será que meu código ficará mais difícil de fazer ou até mesmo difícil de ler?. 
+<br/>**Enviado por:**[Thiago Nery](https://twitter.com/thnery_22)
