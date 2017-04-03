@@ -333,3 +333,39 @@ Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a
 Esse tipo de programação é um particular de uma única linguagem?
 Será que meu código ficará mais difícil de fazer ou até mesmo difícil de ler?. 
 <br/>**Enviado por:**[Thiago Nery](https://twitter.com/thnery_22)
+
+# JVM Links (#09: 03/04/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de Thiago Neri, Otavio Santana e Lucas Farias.
+
+## [Glassfish 5 update](https://blogs.oracle.com/theaquarium/entry/glassfish_5_update)
+**Tags:** Glassfish, JEE
+<br/>**Short description:** A Implementação de Referência é uma peça crítica de qualquer JSR dado, isto é ainda mais verdadeiro para Java EE. À medida que os diferentes Java EE 8 JSRs continuam a progredir, é agora importante intensificar os esforços em torno do GlassFish 5, a implementação de código aberto Java EE 8 Reference. E hoje é um marco importante no caminho para Java EE 8 como estamos publicando a primeira versão promovida do GlassFish 5, também conhecido como GlassFish-5.0-b03.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Radar thoughtworks 2017](https://www.thoughtworks.com/radar)
+**Tags:** Radar Thoughtworks
+<br/>**Short description:** Saiu o Radar 2017 da Thoughtworks que mostra as principais tendências tecnológicas usadas por uma das maiores empresas da indústria. O radar é dividido em técnicas, plataformas, ferramentas e linguagens/frameworks.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Hibernate Validor 6 Alpha 2 released](http://in.relation.to/2017/03/30/hibernate-validator-600-alpha2-out/)
+**Tags:** Hibernate, Hibernate Validator, JPA
+<br/>**Short description:** O Hibernate Validator 6.0.0.Alpha2 está com o suporte aprimorado do Bean Validation 2.0
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [JPA e Hibernate Performance Tunning e best practices](http://in.relation.to/2016/09/28/performance-tuning-and-best-practices/)
+**Tags:** Hibernate, JPA
+<br/>**Short description:** Dicas diversas de performance tunning e boas práticas com JPA
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Stack de microserviços reativa do Netflix](https://www.infoq.com/br/interviews/stack-de-microservicos-reativa-no-netflix?utm_source=infoq&utm_medium=videos_homepage&utm_campaign=videos_row2)
+**Tags:** Microserviços, Netflix, Programação reativa
+<br/>**Short description:** Arquiteto de software e Agile Coach com mais de 10 anos de experiência em desenvolvimento de software e TI, Diego é especialista em SOA e sistemas distribuídos, inclusive em projetos internacionais. Trabalha com Scala e outras linguagens funcionais desde 2011. Atua como arquiteto na Ilegra, joga StarCraft 2 como terrano e curte um samba
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Anotações customizadas com bean validation](https://matheuspcarvalhoblog-wordpress-com.cdn.ampproject.org/c/s/matheuspcarvalhoblog.wordpress.com/2017/04/01/anotacao-customizada-bean-validation/amp/)
+**Tags:** Bean Validation
+<br/>**Short description:** Mateus Carvalho descrever como criar anotações customizadas com bean validation.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+
+
