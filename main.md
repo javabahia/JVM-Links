@@ -335,7 +335,7 @@ Será que meu código ficará mais difícil de fazer ou até mesmo difícil de l
 <br/>**Enviado por:**[Thiago Nery](https://twitter.com/thnery_22)
 
 # JVM Links (#09: 03/04/2017)
-Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de Mateus Carvalho, em seu primeiro post no seu blog pessoal. Parabéns Mateus!
+Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de [Mateus Carvalho](https://github.com/MatheusPCarvalho), em seu primeiro post no seu blog pessoal. Parabéns Mateus, continue compartilhando seu conhecimento.
 
 ## [Glassfish 5 update](https://blogs.oracle.com/theaquarium/entry/glassfish_5_update)
 **Tags:** Glassfish, JEE
