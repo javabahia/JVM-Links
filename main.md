@@ -335,7 +335,7 @@ Será que meu código ficará mais difícil de fazer ou até mesmo difícil de l
 <br/>**Enviado por:**[Thiago Nery](https://twitter.com/thnery_22)
 
 # JVM Links (#09: 03/04/2017)
-Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de Thiago Neri, Otavio Santana e Lucas Farias.
+Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colabração de Mateus Carvalho, em seu primeiro post no seu blog pessoal. Parabéns Mateus!
 
 ## [Glassfish 5 update](https://blogs.oracle.com/theaquarium/entry/glassfish_5_update)
 **Tags:** Glassfish, JEE
