@@ -367,5 +367,31 @@ Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a
 <br/>**Short description:** Mateus Carvalho descrever como criar anotações customizadas com bean validation.
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
 
+# JVM Links (#10: 11/04/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a colaboração de nosso amigo [Lucas Farias](https://twitter.com/luksrn) falando sobre controladores no Spring MVC. Parabéns Lucas e continue nos ajudando.
 
+## [Então você não faz TDD…](https://tech.vivareal.com.br/ent%C3%A3o-voc%C3%AA-n%C3%A3o-faz-tdd-b248fdbcd0af)
+**Tags:** Testes, TDD
+<br/>**Short description:** Bom texto para abrir a cabeça sobre a importância de trabalhar com TDD como ferramenta/metodologia para incremento da qualidade de um projeto de Software. Test-Driven Development, é uma técnica de desenvolvimento criada por Kent Beck, também pai da suíte de testes JUnit.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Por que os profissionais incríveis desistem da tua empresa?](https://www.linkedin.com/pulse/por-que-os-profissionais-incr%C3%ADveis-desistem-da-tua-rodrigo-giaffredo)
+**Tags:** Carreira
+<br/>**Short description:** Rodrigo Giaffredo (Engagement Catalyst na IBM) aborda de uma maneira bastante entusiasmada como manter os talentos na sua empresa.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [“Legado” é um termo maldito](http://www.itexto.net/devkico/?p=2475)
+**Tags:** Legado
+<br/>**Short description:** [Kico Lobo](https://twitter.com/loboweissmann) fala sobre projetos legados em uma abordagem que foi apresentada na QCon de 2015.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Livros de Javascript. Série (em inglês)](https://github.com/getify/You-Dont-Know-JS?utm_source=Direct)
+**Tags:** Javascript
+<br/>**Short description:** This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Conheça a Resolução de Argumentos nos Controladores do Spring MVC](https://medium.com/conversando-sobre-java/conhe%C3%A7a-a-resolu%C3%A7%C3%A3o-de-argumentos-em-controladores-do-spring-mvc-995c87ea2ed4)
+**Tags:**: Java, Spring MVC
+<br/>**Breve descrição:** Um dos aspectos fascinantes do Spring MVC é a flexibilidade que encontramos para receber argumentos em nossos métodos de controladores. Neste texto vamos conversar sobre como esta mágica ocorre e como você pode se beneficiar dela para deixar seu código mais simples
+<br/>**Enviado por:**[Lucas Farias](https://twitter.com/luksrn)
 
