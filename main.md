@@ -395,3 +395,37 @@ Seguindo a programação do JVM Links, esses são os links dessa semana. Temos a
 <br/>**Breve descrição:** Um dos aspectos fascinantes do Spring MVC é a flexibilidade que encontramos para receber argumentos em nossos métodos de controladores. Neste texto vamos conversar sobre como esta mágica ocorre e como você pode se beneficiar dela para deixar seu código mais simples
 <br/>**Enviado por:**[Lucas Farias](https://twitter.com/luksrn)
 
+# JVM Links (#11: 17/04/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. 
+
+## [Here goes the Java EE vs Spring debate again](https://www.insaneprogramming.be/article/2017/04/07/java-ee-spring/)
+**Tags:** JEE, Spring
+<br/>**Short description:** Mais um artigo explicando as diferenças e motivações para uso da plataforma JEE ou Spring no mundo Java.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Java in 2017 Survey (Baeldung)](http://www.baeldung.com/java-in-2017?utm_content=buffer4acdb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+**Tags:** Survey, Java, Spring
+<br/>**Short description:** We've been running the "State of Java" survey for many years now - to get a good read of the state of the Java ecosystem. Last year, 2250 Java developers decided to take the time to answer the questions, and so it's fantastic to see this year that number is almost double - we got 4439 answers.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [[JNOSQL] COMEÇANDO COM DIANA API DE COLUNAS](https://otaviojava.wordpress.com/2017/04/10/diana-colunas/)
+**Tags:** Nosql, Diana, Coluna Familiy
+<br/>**Short description:** Umas das API que existem no Diana, camada de comunicação do JNoSQL, é a camada de família de colunas. O objetivo desse artigo é falar rapidamente sobre essa API para esse tipo de banco de dados.
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Inteligência Artificial tranformando os bancos](https://www.linkedin.com/pulse/como-intelig%C3%AAncia-artificial-vai-transformar-os-bancos-clayton-melo)
+**Tags:** IA,
+<br/>**Short description:** O seu gerente um dia ser um robô inteligente, que o ajudará não só com dicas de investimentos, mas também em uma série de coisas, como fazer reserva de hoteis, restaurantes ou compras em sites de comércio eletrônico. Está preparado?
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Talk #43 - webAssembly - web compilada (convidada)](https://www.youtube.com/watch?v=puc-0FdT4QM)
+**Tags:** IA,
+<br/>**Short description:** Entenda o motivo da existência do webAssembly e até um exemplo na prática compilando e rodando o binário no navegador nesta excelente talk da Larissa Gaulia!
+<br/>**Enviado por:**[Mateus Malaquias](https://twitter.com/mmalaquias1)
+
+## [Containers - Bringing Docker To Windows Developers with Windows Server Containers](https://msdn.microsoft.com/en-us/magazine/mt797649)
+**Tags:** Container,Docker
+<br/>**Short description:** For the last couple of years Docker and containers have been one of the hottest topics in dev circles, and in enterprises, around the world. The release of Windows Server 2016 last fall added a lot to the conversation by opening containers to Windows developers. How did the world of Windows and Docker come together? It started during the gorgeous Puget Sound summer of 2014 as the Windows Base team embarked on a new project that would ultimately become Windows Server Containers. This is the story behind the code, and a glimpse into what it was like to build one of the top new features in Windows Server 2016.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+
