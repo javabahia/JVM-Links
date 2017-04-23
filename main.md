@@ -428,4 +428,37 @@ Seguindo a programação do JVM Links, esses são os links dessa semana.
 <br/>**Short description:** For the last couple of years Docker and containers have been one of the hottest topics in dev circles, and in enterprises, around the world. The release of Windows Server 2016 last fall added a lot to the conversation by opening containers to Windows developers. How did the world of Windows and Docker come together? It started during the gorgeous Puget Sound summer of 2014 as the Windows Base team embarked on a new project that would ultimately become Windows Server Containers. This is the story behind the code, and a glimpse into what it was like to build one of the top new features in Windows Server 2016.
 <br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
 
+# JVM Links (#12: 24/04/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. Tivemos a colaboração de [Lucas Faria(https://twitter.com/luksrn) .
 
+## [Teste suas habilidades de programação](https://www.linuxdescomplicado.com.br/2017/02/exercism-ferramenta-web-open-source-que-promete-aprimorar-suas-habilidades-em-mais-de-30-linguagens-de-programacao.html)
+**Tags:** Programação
+<br/>**Short description:** Exercism – Ferramenta web open source que promete aprimorar suas habilidades em mais de 30 linguagens de programação.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [How to write a Java EE application using Spring Boot and Docker on NetBeans IDE 8.2](https://jaxenter.com/how-to-write-a-java-ee-application-using-spring-boot-and-docker-on-netbeans-ide-8-2-133200.html)
+**Tags:** Docker, Spring Boot, Spring, JEE, Netbeans
+<br/>**Short description:** I’d like to share with you how to write a Java EE application using two of the actual trendiest technologies: Spring Boot & Docker on NetBeans IDE 8.2
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [JEE is moving to github](https://github.com/dmlloyd/openjdk)
+**Tags:** JEE, Github
+<br/>**Short description:** https://github.com/javaee
+https://javaee.github.io
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Open JDK on github](https://java.net/projects/javaee-spec/lists/users/archive/2017-04/message/64)
+**Tags:** Open JDK,JDK, Github
+<br/>**Short description:** Now you can browse @OpenJDK source code on @GitHub, thanks to @dmlloyd0 from Red Hat github.com/dmlloyd/openjdk
+#OpenJDK #Java #GitHub
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Awesome Java](https://github.com/java-lang/awesome-java)
+**Tags:** Frameworks, Java
+<br/>**Short description:** A curated list of awesome Java frameworks, libraries and software. Inspired by other awesome lists.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Acompanhando as novidades do JUnit 5](https://medium.com/conversando-sobre-java/acompanhando-as-novidades-do-junit-5-e0c4e25bcaf5)
+**Tags:** JUnit, Testes
+<br/>**Short description:** Neste texto são apresentadas as motivações e algumas novidades que virão na nova versão do JUnit 5.
+<br/>**Enviado por:**[Lucas Faria](https://twitter.com/luksrn).
