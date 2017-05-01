@@ -462,3 +462,36 @@ https://javaee.github.io
 **Tags:** JUnit, Testes
 <br/>**Short description:** Neste texto são apresentadas as motivações e algumas novidades que virão na nova versão do JUnit 5.
 <br/>**Enviado por:**[Lucas Faria](https://twitter.com/luksrn).
+
+# JVM Links (#13: 01/05/2017)
+Seguindo a programação do JVM Links, esses são os links dessa semana. 
+
+
+## [Recursive Binary Search Algorithm in Java - Example Tutorial](goo.gl/fb/BzKYHh)
+**Tags:** Core, Java
+<br/>**Short description:** Recursive Binary Search Algorithm in Java - Example Tutorial 
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Primefaces 6.1 final release](https://www.primefaces.org/primefaces-6-1-final-released/)
+**Tags:** JSF, Primefaces
+<br/>**Short description:** It is PrimeTime! PrimeTek is proud to announce the 6.1-Final release of PrimeFaces, the UI library of almost any JSF application. In total there are over 300 improvements compared to the previous version including new components, important new features to DataTable,...www.primefaces.org
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [GLASSFISH V5 (JAVA EE 8 RI)--DOCKER IMAGE IS AVAILABLE](http://adambien.blog/roller/abien/entry/glassfish_v5_java_ee_8)
+**Tags:** Docker, Glassfish, Java EE
+<br/>**Short description:** GLASSFISH V5 (JAVA EE 8 RI)--DOCKER IMAGE IS AVAILABLE
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Leader Java on Twitter](https://techbeacon.com/java-leaders-you-should-follow-twitter)
+**Tags:** Comunidade
+<br/>**Short description:** Lista com diversos nomes importantes da comunidade Java para serem seguidos no Twitter.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+## [Wrapping up Java 9 new Features](https://aboullaite.me/wrapping-up-java-9-new-features/)
+**Tags:** Java 9
+<br/>**Short description:** Java 9 comes with a rich feature set. Although there are no new language concepts, new APIs and diagnostic commands will definitely be interesting to developers.
+<br/>**Enviado por:**[Antonio Lazaro](https://twitter.com/antonio_lazaro)
+
+
+
+
